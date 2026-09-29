@@ -1,1 +1,8 @@
-# Proyecto_Ingenieria_Softwware
+# Database
+Proyect for engineering sotware.
+
+# Authors
+Daniel Cals
+Lucas Carvalho
+Andrea Ávila
+Marcos Jiménez
